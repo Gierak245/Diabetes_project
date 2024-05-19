@@ -1,0 +1,15 @@
+Informacje na temat zbioru danych użytego do analizy korelacji między czynnikami (kolumnami) oraz analizy za pomocą regresji logarytmicznej:
+
+Autor zbioru danych: Samira Shemirani (https://www.kaggle.com/samira1992)
+Żródło: https://www.kaggle.com/datasets/samira1992/diabetes-intermediate-dataset/data
+
+Kolumny:
+1 - Ciąże (Pregnancies): Liczbia ciąż pacjentki.
+2 - Glukoza (Glucose): Stężen glukozy we krwi 2 godziny po doustnym teście tolerancji glukozy.
+3 - Ciśnienie krwi (BloodPressure): Ciśnienie krwi (mmHg).
+4 - Grubość skóry (SkinThickness) : Grubość fałdu skórnego tricepsa (mm).
+5 - Insulina (Insulin): Stężenie insuliny w surowicy krwi po 2 godzinach (mu U/ml).
+6 - BMI: Wskaźnik masy ciała (BMI), obliczany jako masa ciała w kg podzielona przez kwadrat wzrostu w metrach.
+7 - Funkcja rodowodu cukrzycowego (DiabetesPedigreeFunction):Funkcja rodowodu cukrzycowego (funkcja oblicza prawdopodobieństo wystąpienia cukrzycy na podstawie wywiadu rodzinnego).
+8 - Wiek (Age): Wiek w latach.
+9 - Wynik (Outcome): Ta kolumna w zestawe danych określa czy u pacjentki została stwierdzona cukrzyca (oznaczona jako 1), czy jest ona zdrowa (oznaczona jako 0).
